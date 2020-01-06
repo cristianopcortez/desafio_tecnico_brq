@@ -1,0 +1,154 @@
+﻿[
+    {
+        "id": 1,
+        "nome": "Nissan GT-R",
+        "marca": "Nissan",
+        "quantidade": 2,
+        "preco": 300000,
+        "imagem": "https://www.nissan-cdn.net/content/dam/Nissan/br/vehicles/2016/gt-r/cores/tablet-1160-600/17TDI_GTRdp100.jpg.ximg.m_12_h.smart.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Gol",
+        "marca": "Volkswagen",
+        "quantidade": 20,
+        "preco": 24000,
+        "imagem": "https://3.bp.blogspot.com/-4kw50eNUOME/V19D0HgYQ7I/AAAAAAACYog/5C1pM-T8MgQt3xUNEJF0Ww8LStBw1_WNACLcB/s1600/VW-Gol-2017%2B%25282%2529.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Pálio",
+        "marca": "Fiat",
+        "quantidade": 4,
+        "preco": 35000,
+        "imagem": "https://icdn-2.motor1.com/images/mgl/VYWJM/s1/fiat-palio-essence-16-16v.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Corsa",
+        "marca": "Chevrolet",
+        "quantidade": 3,
+        "preco": 45000,
+        "imagem": "https://d2cmvxf0t9vz8m.cloudfront.net/images/carpage/corsa-hatch-novo.png"
+    },
+    {
+        "id": 5,
+        "nome": "Onix",
+        "marca": "Chevrolet",
+        "quantidade": 9,
+        "preco": 75000,
+        "imagem": "https://www.ofertaschevrolet.com.br/Imagem/Veiculo/5S48VJ_R7H_AZULIMPERIAL.png"
+    },
+    {
+        "id": 6,
+        "nome": "Hilux",
+        "marca": "Toyota",
+        "quantidade": 10,
+        "preco": 35000,
+        "imagem": "http://cdn.toyota.com.br/wp-content/uploads/2015/11/tyt_menu_icon_90220_hilux-cabine-dupla-icon_w255h0px.png"
+    },
+    {
+        "id": 7,
+        "nome": "Cobalt",
+        "marca": "Chevrolet",
+        "quantidade": 15,
+        "preco": 32000,
+        "imagem": "http://www.chevrolet.com.br/content/dam/Chevrolet/lat-am/Brazil/nscwebsite/pt/Home/Cars/cobalt-2018/model/01-img/chevrolet_cobalt_2018_78_prata_switchblade.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "Spin",
+        "marca": "Chevrolet",
+        "quantidade": 6,
+        "preco": 30000,
+        "imagem": "http://www.chevrolet.com.br/content/dam/Chevrolet/lat-am/Brazil/nscwebsite/pt/Home/Cars/spin-2018/model-overiview/01-img/chevrolet-spin-2018-exterior.jpg"
+    },
+    {
+        "id": 9,
+        "nome": "Fiesta",
+        "marca": "Ford",
+        "quantidade": 5,
+        "preco": 26000,
+        "imagem": "https://s2.glbimg.com/Rsqme7FTWNDax2FkOaqByxmuJYQ=/1080x608/top/smart/s.glbimg.com/jo/g1/f/original/2011/08/25/fiesta_rocam_hatch_foto_1.jpg"
+    },
+    {
+        "id": 10,
+        "nome": "Pegeout 207",
+        "marca": "Peugeot",
+        "quantidade": 13,
+        "preco": 55000,
+        "imagem": "https://automobile-assets.s3.amazonaws.com/automobile/body/peugeot-207-2010-2014-1478412062.26.jpeg"
+    },
+    {
+        "id": 11,
+        "nome": "Prisma",
+        "marca": "Chevrolet",
+        "quantidade": 20,
+        "preco": 45000,
+        "imagem": "https://www.ofertaschevrolet.com.br/Imagem/Veiculo/5T69VH_R8J_BRANCOSUMMIT.png"
+    },
+    {
+        "id": 12,
+        "nome": "KA",
+        "marca": "Ford",
+        "quantidade": 11,
+        "preco": 28000,
+        "imagem": "http://www.ribeirojung.com.br/site/wp-content/themes/ribeirojung/images/img_car_6_ka.png"
+    },
+    {
+        "id": 13,
+        "nome": "Uno",
+        "marca": "Fiat",
+        "quantidade": 10,
+        "preco": 9000,
+        "imagem": "https://s2.glbimg.com/oE7nDE-QC4JsYdjIq1Y_HdmwTeI=/540x304/top/smart/http://s.glbimg.com/jo/g1/f/original/2012/05/28/unosporting.jpg"
+    },
+    {
+        "id": 14,
+        "nome": "Sportage",
+        "marca": "Kia Motors",
+        "quantidade": 20,
+        "preco": 56000,
+        "imagem": "https://cars.usnews.com/static/images/Auto/izmo/i32686254/2018_kia_sportage_angularfront.jpg"
+    },
+    {
+        "id": 15,
+        "nome": "Sorento",
+        "marca": "Kia Motors",
+        "quantidade": 12,
+        "preco": 18000,
+        "imagem": "https://s.aolcdn.com/commerce/autodata/images/USC60KIS021A021001_2.jpg"
+    },
+    {
+        "id": 16,
+        "nome": "Corolla",
+        "marca": "Toyota",
+        "quantidade": 8,
+        "preco": 28000,
+        "imagem": "http://www.toyota.com.br/wp-content/themes/toyota/monte-o-seu/corolla/car-page/ciclo/gli_at_couro_040.png"
+    },
+    {
+        "id": 17,
+        "nome": "Siena",
+        "marca": "Fiat",
+        "quantidade": 5,
+        "preco": 59000,
+        "imagem": "http://bestcars.uol.com.br/bc/wp-content/uploads/2016/09/Fiat-Grand-Siena-Essence-01.jpg"
+    },
+    {
+        "id": 18,
+        "nome": "Kombi",
+        "marca": "Volkswagen",
+        "quantidade": 4,
+        "preco": 35000,
+        "imagem": "http://www.sportmachine.tv/site/wp-content/uploads/2016/06/Divulga%C3%A7%C3%A3o-Kombi-Modelo-2013-2014.jpg"
+    },
+    {
+        "id": 19,
+        "nome": "Golf",
+        "marca": "Volkswagen",
+        "quantidade": 7,
+        "preco": 15000,
+        "imagem": "https://www.vw.com.br/content/dam/vw-ngw/vw_pkw/importers/br/models/my18/golf/cutouts/Golf_Comfortline_Cutout_378x143_1280x484px.png/jcr:content/renditions/original.transform/min/img.png"
+    }
+]
