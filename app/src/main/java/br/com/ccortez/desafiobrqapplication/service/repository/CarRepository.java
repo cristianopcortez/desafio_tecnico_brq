@@ -20,7 +20,7 @@ import retrofit2.Response;
 
 @Singleton
 public class CarRepository {
-    private GitHubService gitHubService;
+    private BackEndService backEndService;
 
     AppDatabase db;
     public Context mContext = null;
@@ -28,14 +28,14 @@ public class CarRepository {
     private static final String TAG = CarRepository.class.getSimpleName();
 
     @Inject
-    public CarRepository(GitHubService gitHubService) {
-        this.gitHubService = gitHubService;
+    public CarRepository(BackEndService backEndService) {
+        this.backEndService = backEndService;
     }
 
     public LiveData<List<Car>> getCarList() {
         final MutableLiveData<List<Car>> data = new MutableLiveData<>();
 
-        gitHubService.getCarList().enqueue(new Callback<List<Car>>() {
+        backEndService.getCarList().enqueue(new Callback<List<Car>>() {
             @Override
             public void onResponse(Call<List<Car>> call, Response<List<Car>> response) {
 
@@ -60,7 +60,7 @@ public class CarRepository {
     public LiveData<Car> getCarDetails(String carID) {
         final MutableLiveData<Car> data = new MutableLiveData<>();
 
-        gitHubService.getCarDetails(carID).enqueue(new Callback<Car>() {
+        backEndService.getCarDetails(carID).enqueue(new Callback<Car>() {
             @Override
             public void onResponse(Call<Car> call, Response<Car> response) {
                 simulateDelay();

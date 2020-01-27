@@ -9,8 +9,8 @@ import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Path;
 
-public interface GitHubService {
-    String HTTPS_API_GITHUB_URL = BuildConfig.API_BASE_URL;
+public interface BackEndService {
+    String HTTP_API_URL = BuildConfig.API_BASE_URL;
 
 //    @GET("carros.json")
     @GET(".")
